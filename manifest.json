@@ -1,8 +1,8 @@
 {
-	"name": "ArtificerPlus",
-	"version_number": "1.0.3",
-	"website_url": "https://github.com/Tizitendo/Onyx-ArtificerPlus-",
-	"description": "Adds QOL elements and buffs artis alts",
+	"name": "LaserTurretPlus",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Tizitendo/0n_x-LaserTurretPlus",
+	"description": "Enemies target the laser turret for only 4 seconds",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.40",
 		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.1.13"
